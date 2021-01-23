@@ -5,4 +5,4 @@ kullanıcıdan alınan bir board üzerindeki
 birbirinden farklı 4 adet oyuncunun,oyun
 tahtası üzerindeki altınları toplamasıdır.</p>
 
-<p>Proje ile dha fazla bilgi için rapora bakabilirsiniz.</p>
+<p>Projeyi çalıştırmak için beniOKU.txt ye bakabilir ve daha detaylı bilgi için rapora bakabilirsiniz.</p>
